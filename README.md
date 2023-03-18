@@ -16,11 +16,11 @@ Neural Style Transfer is a deep learning technique that merges the style of one 
 
 # Examples:
 
-<img align="right" alt="art" width="400" src="https://i.ibb.co/W09ZF6S/Screenshot-1.png">
+<img align="right" alt="art" width="800" src="https://i.ibb.co/W09ZF6S/Screenshot-1.png">
 
-<img align="right" alt="art" width="400" src="https://i.ibb.co/BntCzdk/Screenshot-2.png">
+<img align="right" alt="art" width="800" src="https://i.ibb.co/BntCzdk/Screenshot-2.png">
 
-<img align="right" alt="art" width="400" src="https://i.ibb.co/kQMq9xm/Screenshot-3.png">
+<img align="right" alt="art" width="800" src="https://i.ibb.co/kQMq9xm/Screenshot-3.png">
 
 # Webapplication:
 
@@ -28,7 +28,7 @@ This web application of neural style transfer allows users to upload their own i
 
 
 # Webapplication Interface:
-<img align="right" alt="interface" width="400" src="https://i.ibb.co/YQ9mhVJ/Screenshot-4.png">
+<img align="right" alt="interface" width="800" src="https://i.ibb.co/YQ9mhVJ/Screenshot-4.png">
 
 
 # Conclusion:
