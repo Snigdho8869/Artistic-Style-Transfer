@@ -14,6 +14,7 @@ Neural Style Transfer is a deep learning technique that merges the style of one 
 
 * PIL 
 
+
 # Examples:
 
 <img align="right" alt="art" width="1000" src="https://i.ibb.co/W09ZF6S/Screenshot-1.png">
@@ -31,6 +32,8 @@ This web application of neural style transfer allows users to upload their own i
 
 # Webapplication Interface:
 <img align="right" alt="interface" width="1000" src="https://i.ibb.co/YQ9mhVJ/Screenshot-4.png">
+
+
 
 # Webapplication Result:
 <img align="right" alt="interface" width="1000" src="https://i.ibb.co/hmMLNB5/Screenshot-1.png">
